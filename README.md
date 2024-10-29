@@ -21,5 +21,5 @@ Este es el proyecto final para completar la etapa teórica de mi formación y av
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/usuario/nombre-del-repositorio.git
+   git clone https://github.com/SebastianHenao30/Proyecto-Estudio-SisMovil.git
 
